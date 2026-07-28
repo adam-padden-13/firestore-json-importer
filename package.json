@@ -1,0 +1,23 @@
+{
+  "name": "project_code",
+  "version": "1.0.0",
+  "main": "item_create.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@google-cloud/firestore": "^5.0.2",
+    "dotenv": "^15.0.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RajKKapadia/Excel-To-Firestore-Collection.git"
+  },
+  "bugs": {
+    "url": "https://github.com/RajKKapadia/Excel-To-Firestore-Collection/issues"
+  },
+  "homepage": "https://github.com/RajKKapadia/Excel-To-Firestore-Collection#readme",
+  "description": ""
+}

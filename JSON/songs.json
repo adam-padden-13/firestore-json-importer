@@ -1,0 +1,10 @@
+[
+  {
+    "id": 1,
+    "title": "Yacht",
+    "cloudStoragePath": "/audio/song",
+    "cloudAudioURL": "www.song.com",
+    "type": "demo",
+    "collectionName": "Demo Drop #1"
+  }
+]
