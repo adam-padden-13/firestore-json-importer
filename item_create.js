@@ -11,7 +11,7 @@ const firestore = new Firestore({
   },
 });
 
-const songs = firestore.collection("test-songs");
+const songs = firestore.collection("songs");
 
 const createMenuItem = async (record) => {
   try {
